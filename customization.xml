@@ -1,0 +1,11 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Android.RunLayoutInspector" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Android.MainToolBarActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="CleanGradleProject" icon="E:/Chrome下载/扫把 (11).png" />
+  </component>
+</application>

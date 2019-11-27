@@ -1,0 +1,81 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="容量" />
+      <item value="Get the order value of this object. * &lt;p&gt;Higher values are interpreted as lower priority. As a consequence, * the object with the lowest value has the highest priority (somewhat analogous to Servlet * {@code load-on-startup} values). * &lt;p&gt;Same order values will result in arbitrary sort positions for the * affected objects." />
+      <item value="Property Descriptor" />
+      <item value="异常" />
+      <item value="unallocated" />
+      <item value="Unallocated" />
+      <item value="未分配的" />
+      <item value="待分配的" />
+      <item value="待分配" />
+      <item value="进行中" />
+      <item value="faulty" />
+      <item value="故障" />
+      <item value="faulty Car Count" />
+      <item value="故障的" />
+      <item value="在途" />
+      <item value="空闲" />
+      <item value="frame Number" />
+      <item value="Overview" />
+      <item value="总览" />
+      <item value="监控" />
+      <item value="Bulletin" />
+      <item value="公告栏" />
+      <item value="Unparseable" />
+      <item value="Decl" />
+      <item value="Xml Element Decl" />
+      <item value="* This object contains factory methods for each * Java content interface and Java element interface * generated in the com.fontdo.service_task.bean package. * &lt;p&gt;An ObjectFactory allows you to programatically * construct new instances of the Java representation * for XML content. The Java representation of XML * content can consist of schema derived interfaces * and classes representing the binding of schema * type definitions, element declarations and model * groups. Factory methods for each of these are * provided in this class." />
+      <item value="add necessary libraries" />
+      <item value="vehicle Info" />
+      <item value="number Plate" />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="Connection refused: no further information" />
+      <item value="表格" />
+      <item value="tablet" />
+      <item value="Warning Processed Result DO" />
+      <item value="Warning Processed DO" />
+      <item value="Warning Process DO" />
+      <item value="You have selected the intention category ActionScript. By clicking the checkbox, you can enable/disable all intentions in this category. To enable/disable a particular intention, select the intention inside this category." />
+      <item value="仓库范围" />
+      <item value="停留时间" />
+      <item value="route Deviation Threshold" />
+      <item value="路线偏差阈值" />
+      <item value="temp Stop Timeout" />
+      <item value="临停超时阈值" />
+      <item value="靠近终点是否告警" />
+      <item value="capacity" />
+      <item value="收货地经度" />
+      <item value="annual Inspection Date" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'quartzEntityManagerFactory' defined in class path resource [com/fontdo/service_task/config/QuartzConfig.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: quartzPersistenceUnit] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to open JDBC Connection for DDL execution" />
+      <item value="定时器" />
+      <item value="Timer" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="957" />
+        <entry key="ENGLISH" value="958" />
+        <entry key="BOSNIAN" value="1" />
+        <entry key="DANISH" value="2" />
+        <entry key="FRENCH" value="3" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="GREEK" value="1" />
+        <entry key="VIETNAMESE" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

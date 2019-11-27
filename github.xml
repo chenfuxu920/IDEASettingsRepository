@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="54683756-5eee-4763-b010-0dfa0bd97333" name="chenfuxu920">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="chenfuxu188@gmail.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>

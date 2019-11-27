@@ -1,0 +1,15 @@
+<templateSet group="rcs">
+  <template name="rcs" value="/* Begin add for RCS */&#10;&#10;/* End add for RCS */" description="add RCS begin and end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rcs_xml" value="&lt;!--Begin add for RCS--&gt;&#10;&#10;&lt;!--End add for RCS--&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
